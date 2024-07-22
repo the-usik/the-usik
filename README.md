@@ -2,7 +2,7 @@
 
 ## Projects
 
-1. [**Taxi Service Backend**](https://mobilauto.com.ua) - developed a server-side application for a taxi service using a microservice architecture with a focus on efficiency and optimization with a large number of users. 
+1. [**Taxi Service Backend**](https://mobilauto.com.ua) - developed a Node.JS server-side application for a taxi service using a microservice architecture with a focus on efficiency and optimization with a large number of users. 
 2. [**Netshop**](https://github.com/usein-abilev/netshop) - developed a simple online shop backend written in Go. My personal goal was to learn Go and build a simple RESTful API.
 3. [**Land Cadastral Desktop App**](https://github.com/usein-abilev/landRegistryKotlin) - desktop application for managing land cadastral data. Developed using Kotlin and JavaFX.
 4. [**ISP Management System**](https://github.com/usein-abilev/ISP) - desktop application for managing an Internet Service Provider. Developed using C# and UWP.
