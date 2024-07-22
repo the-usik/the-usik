@@ -8,10 +8,10 @@
 4. [**ISP Management System**](https://github.com/usein-abilev/ISP) - desktop application for managing an Internet Service Provider. Developed using C# and UWP.
 
 ## Skills
-- **Languages:** Node.js, TypeScript, JavaScript, Python, Rust (beginner), Go (beginner)
+- **Languages:** Node.js, TypeScript, JavaScript, Kotlin (hasn't written on it since 2021), Rust (beginner), Go (beginner)
 - **Tools:** Docker, Kubernetes, Git, CI/CD Pipelines (Azure DevOps, GitHub Actions)
 - **Databases:** PostgreSQL, MongoDB, Redis, Elasticsearch
-- **Technologies:** RESTful APIs, GraphQL, Microservices, Cloud Services (AWS, GCP)
+- **Technologies:** RESTful APIs, GraphQL, Microservices, AWS Cloud Service 
 - **Methodologies:** Test-Driven Development (TDD), Domain Driven Design (DDD), Agile, Scrum
 
 
