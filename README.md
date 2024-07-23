@@ -11,7 +11,7 @@
 - **Languages:** Node.js, TypeScript, JavaScript, Kotlin (hasn't written on it since 2021), Rust (beginner), Go (beginner)
 - **Tools:** Docker, Kubernetes, Git, CI/CD Pipelines (Azure DevOps, GitHub Actions)
 - **Databases:** PostgreSQL, MongoDB, Redis, Elasticsearch
-- **Technologies:** RESTful APIs, GraphQL, Microservices, AWS Cloud Service 
+- **Technologies:** RESTful APIs, gRPC, Microservices, AWS Cloud Service 
 - **Methodologies:** Test-Driven Development (TDD), Domain Driven Design (DDD), Agile, Scrum
 
 
