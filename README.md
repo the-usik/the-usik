@@ -6,9 +6,10 @@
 2. [**Netshop**](https://github.com/usein-abilev/netshop) - developed a simple online shop backend written in Go. My personal goal was to learn Go and build a simple RESTful API.
 3. [**Land Cadastral Desktop App**](https://github.com/usein-abilev/landRegistryKotlin) - desktop application for managing land cadastral data. Developed using Kotlin and TornadoFX.
 4. [**ISP Management System**](https://github.com/usein-abilev/ISP) - desktop application for managing an Internet Service Provider. Developed using C# and UWP.
+5. [**Chlang**](https://github.com/usein-abilev/chlang) - a statically typed programming language based on its own register-based virtual machine which can be compile to the native target code. 
 
 ## Skills
-- **Languages:** Node.js, TypeScript, JavaScript, Kotlin (hasn't written on it since 2021), Rust (beginner), Go (beginner)
+- **Languages:** Node.js, TypeScript, JavaScript, Go, Kotlin (hasn't written on it since 2021), Rust (beginner)
 - **Tools:** Docker, Kubernetes, Git, CI/CD Pipelines (Azure DevOps, GitHub Actions)
 - **Databases:** PostgreSQL, MongoDB, Redis, Elasticsearch
 - **Technologies:** RESTful APIs, gRPC, Microservices, AWS Cloud Service 
