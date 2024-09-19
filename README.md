@@ -1,7 +1,7 @@
 <img width="1296" alt="Cover" src="https://github.com/user-attachments/assets/d40dd392-fa5a-4a5f-a58c-a5858caac8c7">
 
-## Projects
 
+## Projects
 1. [**Taxi Service Backend**](https://mobilauto.com.ua) - developed a Node.JS+Rust server-side application for a taxi service using a microservice architecture with a focus on efficiency and optimization with a large number of users. 
 2. [**Netshop**](https://github.com/usein-abilev/netshop) - developed a simple online shop backend written in Go. My personal goal was to learn Go and build a simple RESTful API.
 3. [**Land Cadastral Desktop App**](https://github.com/usein-abilev/landRegistryKotlin) - desktop application for managing land cadastral data. Developed using Kotlin and TornadoFX.
@@ -9,15 +9,12 @@
 5. [**Chlang**](https://github.com/usein-abilev/chlang) - a statically typed programming language based on its own register-based virtual machine which can be compile to the native target code. 
 
 ## Skills
-- **Languages:** Node.js, TypeScript, JavaScript, Go, Kotlin (hasn't written on it since 2021), Rust (beginner)
+- **Languages:** JavaScript (TypeScript, Node.js, React.js), Go, C, Rust (beginner)
 - **Tools:** Docker, Kubernetes, Git, CI/CD Pipelines (Azure DevOps, GitHub Actions)
 - **Databases:** PostgreSQL, MongoDB, Redis, Elasticsearch
-- **Technologies:** RESTful APIs, gRPC, Microservices, AWS Cloud Service 
-- **Methodologies:** Test-Driven Development (TDD), Domain Driven Design (DDD), Agile, Scrum
-
+- **Technologies:** RESTful APIs, gRPC, Microservices, AWS Cloud Service
 
 ## Contact Me
-
 Feel free to reach out if you'd like to collaborate on a project or just want to connect!
 
 - **Email:** [the.usein@gmail.com](mailto:the.usein@gmail.com)
