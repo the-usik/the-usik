@@ -1,5 +1,4 @@
-<img width="1296" alt="Cover" src="https://github.com/user-attachments/assets/d40dd392-fa5a-4a5f-a58c-a5858caac8c7">
-
+I am a software developer with over 6 years of experience, specializing in backend development and computer science in general. 
 
 ## Projects
 1. [**Taxi Service Backend**](https://mobilauto.com.ua) - developed a Node.JS+Rust server-side application for a taxi service using a microservice architecture with a focus on efficiency and optimization with a large number of users. 
